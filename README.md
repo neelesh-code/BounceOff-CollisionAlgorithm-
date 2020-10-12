@@ -1,2 +1,2 @@
-# BounceOff-CollisionAlgorithm-
-Class 21 BounceOff/CollisionAlgorithm 
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
